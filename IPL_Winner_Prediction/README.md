@@ -1,0 +1,1 @@
+- This model predicts the winner of the match based on the details of the second innings of the match.
